@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **kklahirumatara@gmail.com**
 
-<h4 align="right">Connect with me:</h4>
+
+<img src="ending.gif" width="300px" align="left"><h4 align="right">Connect with me:</h4>
 <p align="right">
 <a href="https://linkedin.com/in/lahiru-rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru-rashmika" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@lahirurashmika2033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lahirurashmika2033" height="30" width="40" /></a>
@@ -82,6 +83,7 @@
 <br>
 <br>
 <hr>
+
 
 
 
